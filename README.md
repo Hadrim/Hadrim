@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hadrim
-- 👀 I’m interested in ... lots of Tea ... plus Film, Writing, Art, Design, Computers and Animation.
-- 🌱 I’m currently learning ... Unreal Engine 5 & iPisoft Studio 4.
+- 👀 I’m interested in ... lots of Tea ... alongside Film, Writing, Art & Design, Computer Animation, and of course Game-Development.
+- 🌱 I’m currently (re)learning ... Unreal Engine 5 & Blender.
 - 💞️ I’m looking to collaborate on ... an Animated Webseries.
 - 📫 How to reach me ... nadronian@jacunszone.co.uk
 
